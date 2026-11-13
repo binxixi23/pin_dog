@@ -34,7 +34,7 @@ pin_dog/
 
 ## How to Run
 ```bash
-git clone https://github.com<your-username>/pin_dog.git
+git clone https://github.com/binxixi23/pin_dog
 cd pin_dog
 python3 pin_dog_app.py
 ```
